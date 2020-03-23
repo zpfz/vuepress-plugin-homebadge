@@ -45,20 +45,20 @@ module.exports = {
 
 ### selector
 - 类型：`string`
-- 默认值：`.hero`
+- 默认值：`.hero`   
 指定要注入徽标的父节点，该操作会在父节点内的最后一个元素追加徽标链接。
 
 ### repoLink
 - 类型：`string`
-- 默认值：`undefined`
+- 默认值：`undefined`  
 指定一个 Github 库链接，当用户点击 Star 徽标时，会跳转至该链接。
 
 ### badgeLink
 - 类型：`string`
-- 默认值：`undefined`
+- 默认值：`undefined`  
 指定 Star 徽标链接，链接可从 [shields.io](https://shields.io/category/social) 获取。
 
 ### badgeGroup
 - 类型：`array`
-- 默认值：`undefined`
+- 默认值：`undefined`  
 指定 Star 徽标链接，链接可从 [shields.io](https://shields.io/) 获取。
