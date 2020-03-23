@@ -1,0 +1,14 @@
+.star-badge{
+  margin: 0 !important;
+  margin-left: .625rem !important;
+  vertical-align: text-bottom !important;
+}
+.badge-group{
+  text-align: center;
+  margin-top: .9375rem;
+  margin-bottom: -2.5rem;
+}
+.badge-group img{
+  margin: auto 2px !important;
+  user-select: none;
+}
