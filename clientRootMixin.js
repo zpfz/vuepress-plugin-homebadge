@@ -47,7 +47,6 @@ export default {
             badge.className = "badge-group";
             for (var i = 0; i < badgeGroup.length; i++) {
               badgeGroupLink += "<img src='" + badgeGroup[i] + "' />";
-              console.log(badgeGroupLink);
             }
             badge.innerHTML = badgeGroupLink;
             dom.appendChild(badge);
