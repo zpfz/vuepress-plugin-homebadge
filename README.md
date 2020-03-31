@@ -4,7 +4,7 @@
 A homepage badge plugin for AntDocs theme.
 
 ![Version](https://img.shields.io/github/package-json/v/zpfz/vuepress-plugin-homebadge?style=flat-square)
-![License](https://img.shields.io/github/license/zpfz/vuepress-plugin-homebadge?style=flat-square)
+![NPM](https://img.shields.io/npm/l/vuepress-plugin-homebadge?style=flat-square)
 
 </div>
 
